@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shoporia - Thank You</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<main class="thank-you">
+  <h1>Thank You for Your Purchase!</h1>
+  <p>Your order was successful.</p>
+  <a href="index.html" class="btn">Back to Home</a>
+</main>
+
+</body>
+</html>
